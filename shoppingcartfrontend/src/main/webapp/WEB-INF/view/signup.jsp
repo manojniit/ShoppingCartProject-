@@ -12,7 +12,7 @@
 <style>
    body {
 
-background-image:url("http://www.hdwallpapers.in/walls/girl_butterfly_play-wide.jpg");
+background-image:url("rahul.jpg");
 background-repeat: no-repeat;
    background-size: cover;
     background-attachment: fixed;
@@ -24,7 +24,7 @@ background-repeat: no-repeat;
 
 <div class="container" >
   <h2  style="color:red">Sign up</h2>
-  <form action="register">
+  <form role="form">
     <div class="form-group">
       <label for="name" style="color:black">Firstname:</label>
       <input type="text" class="form-control" id="name" placeholder="Enter Firstname">
@@ -82,8 +82,8 @@ background-repeat: no-repeat;
       <a class="navbar-brand" href="#" style = "color:cyan">@inone store</a>
 	    </div>
 	<ul class="nav navbar-nav navbar-right">
-	 <li ><a href="home" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>HOME</a></li>
-      <li ><a href="log" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>LOG IN</a></li><br>
+	 <li ><a href="file:///G:/bootstrap/home.html" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>HOME</a></li>
+      <li ><a href="file:///G:/bootstrap/log.html" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>LOG IN</a></li><br>
      
     </ul>
     <div>

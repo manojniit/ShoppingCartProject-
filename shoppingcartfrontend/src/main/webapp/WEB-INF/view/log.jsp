@@ -12,7 +12,7 @@
 <style> 
     body
 {
-background-image:url("https://s-media-cache-ak0.pinimg.com/736x/12/25/10/122510f95c89008fcdb0f7d1e831bd7a.jpg");
+background-image:url("ganesh.jpg");
 
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -25,7 +25,7 @@ background-size: cover;
 
 
                 
-                <form action="signin">
+                <form class="FormSignin">
 				<div class="container">
     <div class="row"> 
         <div class="col-sm-6 col-md-4 col-md-offset-4">
@@ -64,8 +64,8 @@ background-size: cover;
 	  <a class="navbar-brand" href="#" style = "color:cyan">allinone store</a>
 	    </div>
 <ul class="nav navbar-nav navbar-right">
-       <li ><a href="home" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>HOME</a></li>
-	<li ><a href="signup" style = "color:cyan"><span class="glyphicon glyphicon-log-in"></span> SIGN UP</a></li>
+       <li ><a href="file:///G:/bootstrap/home.html" style = "color:cyan"><span class="glyphicon glyphicon-user"></span>HOME</a></li>
+	<li ><a href="file:///G:/bootstrap/signup.html" style = "color:cyan"><span class="glyphicon glyphicon-log-in"></span> SIGN UP</a></li>
       
     </ul>
     <div>
